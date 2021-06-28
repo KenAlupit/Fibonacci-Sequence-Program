@@ -1,4 +1,4 @@
-# Fibonacci
+# Fibonacci Sequence Program
 
 A simple program that writes a Fibonacci sequence then saves it into a .txt file
 
